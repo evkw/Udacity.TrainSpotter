@@ -1,0 +1,2702 @@
+[
+  {
+    "stop_id": 200017,
+    "stop_name": "Central Station, Railway Square, Stand J",
+    "stop_lat": -33.883129,
+    "stop_lon": 151.203555,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 200033,
+    "stop_name": "Wynyard Station, York St, Stand K",
+    "stop_lat": -33.866192,
+    "stop_lon": 151.205807,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 200057,
+    "stop_name": "Sheraton on the Park, Elizabeth St",
+    "stop_lat": -33.872002,
+    "stop_lon": 151.209948,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 200062,
+    "stop_name": "Central Station, Railway Square, Stand K",
+    "stop_lat": -33.88385,
+    "stop_lon": 151.20354,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 200064,
+    "stop_name": "Central Station, Railway Square, Stand M",
+    "stop_lat": -33.883665,
+    "stop_lon": 151.203342,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 200081,
+    "stop_name": "Martin Place Station, Elizabeth St, Stand F",
+    "stop_lat": -33.86755,
+    "stop_lon": 151.210711,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 200082,
+    "stop_name": "Martin Place Station, Elizabeth St, Stand D",
+    "stop_lat": -33.867985,
+    "stop_lon": 151.210441,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 200721,
+    "stop_name": "Broadway before Mountain St",
+    "stop_lat": -33.88425,
+    "stop_lon": 151.196023,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 200815,
+    "stop_name": "Broadway at Buckland St",
+    "stop_lat": -33.884486,
+    "stop_lon": 151.197634,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 200817,
+    "stop_name": "City Rd near Butlin Av",
+    "stop_lat": -33.889165,
+    "stop_lon": 151.190832,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 201115,
+    "stop_name": "Kings Cross Station, Bayswater Rd, Stand D",
+    "stop_lat": -33.875018,
+    "stop_lon": 151.223142,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 201126,
+    "stop_name": "Kings Cross Station, Bayswater Rd, Stand C",
+    "stop_lat": -33.87495,
+    "stop_lon": 151.223694,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 201622,
+    "stop_name": "Regent St after Redfern St",
+    "stop_lat": -33.892976,
+    "stop_lon": 151.200234,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 201631,
+    "stop_name": "Redfern Station, Gibbons St, Stand A",
+    "stop_lat": -33.892271,
+    "stop_lon": 151.199426,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 202267,
+    "stop_name": "Bondi Junction Station, Stand G",
+    "stop_lat": -33.891214,
+    "stop_lon": 151.247729,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 202281,
+    "stop_name": "Bondi Junction Station, Grafton St, Stand R",
+    "stop_lat": -33.89091,
+    "stop_lon": 151.247941,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 202726,
+    "stop_name": "Edgecliff Station, New South Head Rd, Stand N",
+    "stop_lat": -33.878966,
+    "stop_lon": 151.236217,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 202757,
+    "stop_name": "Edgecliff Station, New South Head Rd, Stand P",
+    "stop_lat": -33.878618,
+    "stop_lon": 151.235753,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204078,
+    "stop_name": "Parramatta Rd near Renwick St",
+    "stop_lat": -33.888394,
+    "stop_lon": 151.156337,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204079,
+    "stop_name": "Parramatta Rd before Catherine St",
+    "stop_lat": -33.887745,
+    "stop_lon": 151.160943,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204211,
+    "stop_name": "Newtown Station, King St, Stand D",
+    "stop_lat": -33.897656,
+    "stop_lon": 151.178884,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204230,
+    "stop_name": "King St after Lord St",
+    "stop_lat": -33.906317,
+    "stop_lon": 151.181126,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204238,
+    "stop_name": "Newtown Station, King St, Stand B",
+    "stop_lat": -33.898169,
+    "stop_lon": 151.178282,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204243,
+    "stop_name": "Newtown Station, Enmore Rd, Stand A",
+    "stop_lat": -33.897733,
+    "stop_lon": 151.178277,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204311,
+    "stop_name": "King St at Concord St",
+    "stop_lat": -33.90642,
+    "stop_lon": 151.181372,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204312,
+    "stop_name": "Sydney Park Rd after King St",
+    "stop_lat": -33.906851,
+    "stop_lon": 151.182241,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204416,
+    "stop_name": "Princes Hwy opp Reilly Ln",
+    "stop_lat": -33.918635,
+    "stop_lon": 151.17025,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204424,
+    "stop_name": "Princes Hwy at Gannon St",
+    "stop_lat": -33.924829,
+    "stop_lon": 151.160524,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204431,
+    "stop_name": "Princes Hwy at George St",
+    "stop_lat": -33.918144,
+    "stop_lon": 151.170575,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204442,
+    "stop_name": "Princes Hwy at Fanning St",
+    "stop_lat": -33.92434,
+    "stop_lon": 151.161412,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204451,
+    "stop_name": "Sydney Park Rd before Princes Hwy",
+    "stop_lat": -33.907134,
+    "stop_lon": 151.182381,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204515,
+    "stop_name": "Parramatta Rd near Rogers Av",
+    "stop_lat": -33.883644,
+    "stop_lon": 151.134388,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204518,
+    "stop_name": "Parramatta Rd at Haberfield Rd",
+    "stop_lat": -33.886697,
+    "stop_lon": 151.140689,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204670,
+    "stop_name": "Parramatta Rd before Arlington St",
+    "stop_lat": -33.872699,
+    "stop_lon": 151.125753,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204811,
+    "stop_name": "Douglas St near Percival Rd",
+    "stop_lat": -33.894148,
+    "stop_lon": 151.163675,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204816,
+    "stop_name": "Percival Rd near Douglas St",
+    "stop_lat": -33.893658,
+    "stop_lon": 151.164137,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204911,
+    "stop_name": "Trafalgar St near Petersham Station",
+    "stop_lat": -33.894025,
+    "stop_lon": 151.155565,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204912,
+    "stop_name": "Trafalgar St near Petersham Station",
+    "stop_lat": -33.894053,
+    "stop_lon": 151.156149,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204918,
+    "stop_name": "Railway Tce near Hunter St",
+    "stop_lat": -33.893682,
+    "stop_lon": 151.148362,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204924,
+    "stop_name": "Parramatta Rd after Phillip St",
+    "stop_lat": -33.887954,
+    "stop_lon": 151.160828,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 204927,
+    "stop_name": "Railway Tce near Hunter St",
+    "stop_lat": -33.893894,
+    "stop_lon": 151.14866,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 205017,
+    "stop_name": "Parramatta Rd near Larkin St",
+    "stop_lat": -33.88564,
+    "stop_lon": 151.181181,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 205023,
+    "stop_name": "Parramatta Rd at Missenden Rd",
+    "stop_lat": -33.886271,
+    "stop_lon": 151.179376,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 205038,
+    "stop_name": "City Rd near Butlin Av",
+    "stop_lat": -33.88915,
+    "stop_lon": 151.190371,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 206014,
+    "stop_name": "North Sydney Station, Blue St, Stand D",
+    "stop_lat": -33.841044,
+    "stop_lon": 151.207632,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 206025,
+    "stop_name": "Pacific Hwy near West St",
+    "stop_lat": -33.833421,
+    "stop_lon": 151.204791,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 206028,
+    "stop_name": "Pacific Hwy near Doohat Av",
+    "stop_lat": -33.835463,
+    "stop_lon": 151.205195,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 206029,
+    "stop_name": "Pacific Hwy near McHatton St",
+    "stop_lat": -33.833638,
+    "stop_lon": 151.204629,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 206067,
+    "stop_name": "Pacific Hwy before Walker St",
+    "stop_lat": -33.840182,
+    "stop_lon": 151.208289,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 206444,
+    "stop_name": "Artarmon Station, Hampden St",
+    "stop_lat": -33.808231,
+    "stop_lon": 151.183973,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 206445,
+    "stop_name": "Hampden Rd before Francis Rd",
+    "stop_lat": -33.808378,
+    "stop_lon": 151.183947,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 206523,
+    "stop_name": "St Leonards Station, Pacific Hwy, Stand A",
+    "stop_lat": -33.823205,
+    "stop_lon": 151.194735,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 206714,
+    "stop_name": "Chatswood Station, Railway St, Stand H",
+    "stop_lat": -33.796616,
+    "stop_lon": 151.180438,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 206982,
+    "stop_name": "Pacific Hwy opp Roseville Station",
+    "stop_lat": -33.784585,
+    "stop_lon": 151.176907,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 206992,
+    "stop_name": "Roseville Station, Pacific Hwy",
+    "stop_lat": -33.785009,
+    "stop_lon": 151.177672,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207048,
+    "stop_name": "Pacific Hwy opp Lindfield Station",
+    "stop_lat": -33.776057,
+    "stop_lon": 151.168669,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207056,
+    "stop_name": "Lindfield Station, Pacific Hwy",
+    "stop_lat": -33.775387,
+    "stop_lon": 151.168854,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207114,
+    "stop_name": "Pacific Hwy before Killara Pl",
+    "stop_lat": -33.764452,
+    "stop_lon": 151.156619,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207117,
+    "stop_name": "Pacific Hwy at Powell St",
+    "stop_lat": -33.763846,
+    "stop_lon": 151.156449,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207212,
+    "stop_name": "Pacific Hwy at Moree St",
+    "stop_lat": -33.75543,
+    "stop_lon": 151.152567,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207214,
+    "stop_name": "Pacific Hwy after Park Av",
+    "stop_lat": -33.754904,
+    "stop_lon": 151.152528,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207311,
+    "stop_name": "Pymble Station, Pacific Hwy",
+    "stop_lat": -33.74501,
+    "stop_lon": 151.142215,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207323,
+    "stop_name": "1178 Pacific Hwy",
+    "stop_lat": -33.742852,
+    "stop_lon": 151.139729,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207412,
+    "stop_name": "Pacific Hwy before Ray St",
+    "stop_lat": -33.732524,
+    "stop_lon": 151.126439,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207416,
+    "stop_name": "Warrawee Public School, Pacific Hwy",
+    "stop_lat": -33.728959,
+    "stop_lon": 151.121532,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207418,
+    "stop_name": "Pacific Hwy at Eulbertie Av",
+    "stop_lat": -33.728788,
+    "stop_lon": 151.121647,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207621,
+    "stop_name": "Abbotsleigh School for Girls, Pacific Hwy",
+    "stop_lat": -33.719398,
+    "stop_lon": 151.115217,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207625,
+    "stop_name": "Pacific Hwy after Neringah Av S",
+    "stop_lat": -33.719115,
+    "stop_lon": 151.115136,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207652,
+    "stop_name": "Normanhurst Station, Malsbury Rd",
+    "stop_lat": -33.720903,
+    "stop_lon": 151.096528,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207712,
+    "stop_name": "Pacific Hwy before Yardley Av",
+    "stop_lat": -33.711659,
+    "stop_lon": 151.105894,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 207761,
+    "stop_name": "Hornsby Station, Stand C",
+    "stop_lat": -33.703681,
+    "stop_lon": 151.098049,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211423,
+    "stop_name": "West Pde opp West Ryde Station",
+    "stop_lat": -33.80691,
+    "stop_lon": 151.089298,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211427,
+    "stop_name": "West Ryde Interchange - Stand D",
+    "stop_lat": -33.806896,
+    "stop_lon": 151.089746,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211431,
+    "stop_name": "Constitution Rd near Meadowbank Station",
+    "stop_lat": -33.815863,
+    "stop_lon": 151.090932,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211613,
+    "stop_name": "Victoria Rd near Bridge St",
+    "stop_lat": -33.810095,
+    "stop_lon": 151.031329,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211614,
+    "stop_name": "Victoria Rd near Crowgey St",
+    "stop_lat": -33.809874,
+    "stop_lon": 151.031578,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211758,
+    "stop_name": "Park Rd after Albion St",
+    "stop_lat": -33.801933,
+    "stop_lon": 151.040752,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211759,
+    "stop_name": "Park Rd opp Albion St",
+    "stop_lat": -33.801842,
+    "stop_lon": 151.040861,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211811,
+    "stop_name": "Carlingford Station, Lloyds Av",
+    "stop_lat": -33.782684,
+    "stop_lon": 151.047012,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211973,
+    "stop_name": "Beecroft Rd near Hannah St (NightRide)",
+    "stop_lat": -33.74893,
+    "stop_lon": 151.064409,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211974,
+    "stop_name": "Beecroft Rd and The Promenade (NightRide)",
+    "stop_lat": -33.757862,
+    "stop_lon": 151.073639,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211975,
+    "stop_name": "Beecroft Rd opp The Promenade",
+    "stop_lat": -33.757945,
+    "stop_lon": 151.07353,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 211976,
+    "stop_name": "Beecroft Rd after Hannah St",
+    "stop_lat": -33.748775,
+    "stop_lon": 151.064158,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 212050,
+    "stop_name": "Pennant Hills Station, Yarrara Rd",
+    "stop_lat": -33.738075,
+    "stop_lon": 151.072097,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 212051,
+    "stop_name": "The Esplanade opp Thornleigh Station",
+    "stop_lat": -33.731469,
+    "stop_lon": 151.077898,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 212052,
+    "stop_name": "Thornleigh Station, The Esplanade",
+    "stop_lat": -33.731631,
+    "stop_lon": 151.077982,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 212111,
+    "stop_name": "Epping Station, Beecroft Rd, Stand C",
+    "stop_lat": -33.773053,
+    "stop_lon": 151.081967,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 212113,
+    "stop_name": "Epping Station, Beecroft Rd, Stand G",
+    "stop_lat": -33.773088,
+    "stop_lon": 151.081707,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 212211,
+    "stop_name": "Eastwood Station, Railway Pde, Stand C",
+    "stop_lat": -33.790484,
+    "stop_lon": 151.08269,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 212212,
+    "stop_name": "Eastwood Station, Railway Pde, Stand D",
+    "stop_lat": -33.790394,
+    "stop_lon": 151.082845,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213022,
+    "stop_name": "Parramatta Rd after Sloane St",
+    "stop_lat": -33.887329,
+    "stop_lon": 151.141291,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213039,
+    "stop_name": "Summer Hill Station, Carlton Cr",
+    "stop_lat": -33.890314,
+    "stop_lon": 151.138459,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213040,
+    "stop_name": "Carlton Cr opp Summer Hill Station",
+    "stop_lat": -33.890635,
+    "stop_lon": 151.138763,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213146,
+    "stop_name": "Ashfield Station, Liverpool Rd, Stand G",
+    "stop_lat": -33.889471,
+    "stop_lon": 151.125648,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213212,
+    "stop_name": "The Strand opp Croydon Station (NightRide)",
+    "stop_lat": -33.883452,
+    "stop_lon": 151.114539,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213220,
+    "stop_name": "Parramatta Rd at Croydon Rd",
+    "stop_lat": -33.872997,
+    "stop_lon": 151.125817,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213268,
+    "stop_name": "Croydon Station, The Strand (NightRide)",
+    "stop_lat": -33.883551,
+    "stop_lon": 151.114706,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213412,
+    "stop_name": "Parramatta Rd before Burwood Rd",
+    "stop_lat": -33.869055,
+    "stop_lon": 151.105854,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213464,
+    "stop_name": "Burwood Station, Railway Pde, Stand A",
+    "stop_lat": -33.8772,
+    "stop_lon": 151.102907,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213466,
+    "stop_name": "Burwood Station, Railway Pde, Stand C",
+    "stop_lat": -33.87728,
+    "stop_lon": 151.102288,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213516,
+    "stop_name": "Strathfield Station, Albert Rd, Stand G",
+    "stop_lat": -33.871944,
+    "stop_lon": 151.09363,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213718,
+    "stop_name": "Concord Rd near Wellbank St",
+    "stop_lat": -33.858676,
+    "stop_lon": 151.092245,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213722,
+    "stop_name": "Parramatta Rd opp Esher St",
+    "stop_lat": -33.868878,
+    "stop_lon": 151.106001,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213813,
+    "stop_name": "Concord Rd after Llewellyn St",
+    "stop_lat": -33.829061,
+    "stop_lon": 151.089032,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213828,
+    "stop_name": "Concord Rd near Nirranda St",
+    "stop_lat": -33.848757,
+    "stop_lon": 151.089793,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213835,
+    "stop_name": "Concord Rd near Victoria Av",
+    "stop_lat": -33.848068,
+    "stop_lon": 151.089488,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 213854,
+    "stop_name": "Rhodes Station, Concord Rd, Stand A",
+    "stop_lat": -33.831035,
+    "stop_lon": 151.087933,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 214011,
+    "stop_name": "Homebush Station, The Crescent",
+    "stop_lat": -33.866877,
+    "stop_lon": 151.085865,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 214012,
+    "stop_name": "Opp Homebush Station, The Crescent",
+    "stop_lat": -33.867199,
+    "stop_lon": 151.086268,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 214021,
+    "stop_name": "Flemington Station, The Crescent",
+    "stop_lat": -33.865241,
+    "stop_lon": 151.071081,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 214052,
+    "stop_name": "The Crescent opp Flemington Station",
+    "stop_lat": -33.865301,
+    "stop_lon": 151.070487,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 214182,
+    "stop_name": "Berala Station, Woodburn Rd (NightRide)",
+    "stop_lat": -33.871251,
+    "stop_lon": 151.032261,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 214197,
+    "stop_name": "Lidcombe Station, Railway St, Stand C",
+    "stop_lat": -33.863987,
+    "stop_lon": 151.04487,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 214322,
+    "stop_name": "Park Rd opp Regents Park Station",
+    "stop_lat": -33.883149,
+    "stop_lon": 151.02352,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 214340,
+    "stop_name": "Regents Park Station, Park Rd",
+    "stop_lat": -33.883264,
+    "stop_lon": 151.023639,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 214511,
+    "stop_name": "Alexandra Ave opp Westmead Station",
+    "stop_lat": -33.809026,
+    "stop_lon": 150.988373,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 214675,
+    "stop_name": "Toongabbie Station, Wentworth Av",
+    "stop_lat": -33.786785,
+    "stop_lon": 150.951592,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 214676,
+    "stop_name": "Wentworth Av opp Toongabbie Station",
+    "stop_lat": -33.786761,
+    "stop_lon": 150.951734,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 216156,
+    "stop_name": "Guildford Station, Railway St",
+    "stop_lat": -33.853417,
+    "stop_lon": 150.985346,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 216233,
+    "stop_name": "Chester Hill Station, Waldron Rd",
+    "stop_lat": -33.88312,
+    "stop_lon": 150.999887,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 216394,
+    "stop_name": "Villawood Station, River Av",
+    "stop_lat": -33.880365,
+    "stop_lon": 150.977198,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 216395,
+    "stop_name": "Villawood Station, River Av",
+    "stop_lat": -33.880581,
+    "stop_lon": 150.977239,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 216528,
+    "stop_name": "Fairfield Station, Stand A",
+    "stop_lat": -33.872015,
+    "stop_lon": 150.957317,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 216530,
+    "stop_name": "Fairfield Station, Stand B",
+    "stop_lat": -33.871917,
+    "stop_lon": 150.957475,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 216643,
+    "stop_name": "Canley Vale Station, Railway Pde",
+    "stop_lat": -33.887552,
+    "stop_lon": 150.943227,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 216674,
+    "stop_name": "Cabramatta Station, Railway Pde, Stand C",
+    "stop_lat": -33.895292,
+    "stop_lon": 150.938586,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 216685,
+    "stop_name": "Cabramatta Station, Railway Pde, Stand B",
+    "stop_lat": -33.894435,
+    "stop_lon": 150.938568,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 216711,
+    "stop_name": "Glenfield Station, Railway Pde",
+    "stop_lat": -33.972546,
+    "stop_lon": 150.893072,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 216712,
+    "stop_name": "Railway Pde opp Glenfield Station",
+    "stop_lat": -33.972634,
+    "stop_lon": 150.893198,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 217021,
+    "stop_name": "Physio Newbridge Rd near Stockton Av",
+    "stop_lat": -33.929285,
+    "stop_lon": 150.947784,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 217082,
+    "stop_name": "Newbridge Rd near",
+    "stop_lat": -33.928917,
+    "stop_lon": 150.952575,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219211,
+    "stop_name": "Burwood Rd near Tobruk Av",
+    "stop_lat": -33.917512,
+    "stop_lon": 151.088468,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219212,
+    "stop_name": "Burwood Rd near Belmore Station",
+    "stop_lat": -33.916652,
+    "stop_lon": 151.08776,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219218,
+    "stop_name": "Canterbury Rd near Chapel St",
+    "stop_lat": -33.925402,
+    "stop_lon": 151.08737,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219219,
+    "stop_name": "Canterbury Rd near Chapel St",
+    "stop_lat": -33.925194,
+    "stop_lon": 151.08732,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219311,
+    "stop_name": "Floss St near Hurlstone Park Station",
+    "stop_lat": -33.910125,
+    "stop_lon": 151.132496,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219312,
+    "stop_name": "Floss St near Hurlstone Park Station",
+    "stop_lat": -33.910173,
+    "stop_lon": 151.132726,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219321,
+    "stop_name": "Canterbury Rd near Canterbury Station",
+    "stop_lat": -33.912385,
+    "stop_lon": 151.118614,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219330,
+    "stop_name": "New Canterbury Rd near Melford St",
+    "stop_lat": -33.904926,
+    "stop_lon": 151.129128,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219377,
+    "stop_name": "Canterbury Rd near Tincombe St",
+    "stop_lat": -33.911901,
+    "stop_lon": 151.119772,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219415,
+    "stop_name": "South Pde near Beamish St",
+    "stop_lat": -33.910611,
+    "stop_lon": 151.103959,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219417,
+    "stop_name": "Beamish St near North Pde",
+    "stop_lat": -33.909855,
+    "stop_lon": 151.103626,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219527,
+    "stop_name": "The Boulevarde opp Lakemba Station",
+    "stop_lat": -33.920278,
+    "stop_lon": 151.076623,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219542,
+    "stop_name": "Lakemba Station, The Boulevarde",
+    "stop_lat": -33.920473,
+    "stop_lon": 151.075636,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219634,
+    "stop_name": "Canterbury Rd near Bramhall Av",
+    "stop_lat": -33.932541,
+    "stop_lon": 151.045334,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 219637,
+    "stop_name": "Canterbury Rd near Punchbowl Rd",
+    "stop_lat": -33.932362,
+    "stop_lon": 151.044289,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220336,
+    "stop_name": "New Canterbury Rd near Melford St",
+    "stop_lat": -33.90482,
+    "stop_lon": 151.129516,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220350,
+    "stop_name": "New Canterbury Rd near Lewisham St",
+    "stop_lat": -33.903003,
+    "stop_lon": 151.142825,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220354,
+    "stop_name": "New Canterbury Rd near Marrickville Rd",
+    "stop_lat": -33.90315,
+    "stop_lon": 151.142911,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220488,
+    "stop_name": "Dulwich Hill Station, Ewart St",
+    "stop_lat": -33.911896,
+    "stop_lon": 151.139844,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220561,
+    "stop_name": "Princes Hwy before Gertrude St",
+    "stop_lat": -33.932406,
+    "stop_lon": 151.153844,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220564,
+    "stop_name": "Princes Hwy before Brodie Spark Dr",
+    "stop_lat": -33.931198,
+    "stop_lon": 151.154569,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220571,
+    "stop_name": "Princes Hwy at Burrows St",
+    "stop_lat": -33.937373,
+    "stop_lon": 151.149059,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220578,
+    "stop_name": "Princes Hwy at Kyle St",
+    "stop_lat": -33.937454,
+    "stop_lon": 151.149289,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220812,
+    "stop_name": "Kingsgrove Rd after Shaw St",
+    "stop_lat": -33.941619,
+    "stop_lon": 151.101362,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220915,
+    "stop_name": "Morgan St before King Georges Rd",
+    "stop_lat": -33.94928,
+    "stop_lon": 151.081599,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220957,
+    "stop_name": "Narwee Station, Hannans Rd",
+    "stop_lat": -33.947634,
+    "stop_lon": 151.071083,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 220970,
+    "stop_name": "Hannans Rd opp Narwee Station",
+    "stop_lat": -33.947218,
+    "stop_lon": 151.070412,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221261,
+    "stop_name": "Revesby Station, Marco Av",
+    "stop_lat": -33.951987,
+    "stop_lon": 151.015119,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221281,
+    "stop_name": "Marco Av opp Revesby Station",
+    "stop_lat": -33.951795,
+    "stop_lon": 151.015171,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221313,
+    "stop_name": "East Hills Station, Park Rd",
+    "stop_lat": -33.961532,
+    "stop_lon": 150.984451,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221375,
+    "stop_name": "Panania Station, Braesmere Rd",
+    "stop_lat": -33.953787,
+    "stop_lon": 150.99831,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221617,
+    "stop_name": "Rockdale Station, Railway St, Stand G",
+    "stop_lat": -33.952409,
+    "stop_lon": 151.136182,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221618,
+    "stop_name": "Rockdale Station, Railway St, Stand F",
+    "stop_lat": -33.95211,
+    "stop_lon": 151.136154,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221621,
+    "stop_name": "Railway St opp Banksia Station",
+    "stop_lat": -33.945473,
+    "stop_lon": 151.139945,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221622,
+    "stop_name": "Banksia Station, Railway St",
+    "stop_lat": -33.945089,
+    "stop_lon": 151.140296,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221711,
+    "stop_name": "Kogarah Station, Regent St, Stand D",
+    "stop_lat": -33.962673,
+    "stop_lon": 151.133404,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221712,
+    "stop_name": "Kogarah Station, Railway Pde, Stand C",
+    "stop_lat": -33.963076,
+    "stop_lon": 151.132655,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221870,
+    "stop_name": "Carlton Station, Railway Pde",
+    "stop_lat": -33.968581,
+    "stop_lon": 151.124,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221871,
+    "stop_name": "Railway Pde opp Carlton Station",
+    "stop_lat": -33.968519,
+    "stop_lon": 151.124977,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221879,
+    "stop_name": "Railway Pde opp Allawah Station",
+    "stop_lat": -33.970129,
+    "stop_lon": 151.114827,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 221880,
+    "stop_name": "Allawah Station, Railway Pde",
+    "stop_lat": -33.970002,
+    "stop_lon": 151.11486,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 222284,
+    "stop_name": "Penshurst Station, Bridge St",
+    "stop_lat": -33.965708,
+    "stop_lon": 151.089383,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 222298,
+    "stop_name": "Penshurst Station, Bridge St",
+    "stop_lat": -33.965851,
+    "stop_lon": 151.0893,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 222411,
+    "stop_name": "Princes Hwy opp Clare St",
+    "stop_lat": -34.007458,
+    "stop_lon": 151.111714,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 222449,
+    "stop_name": "Princes Hwy after Clare St",
+    "stop_lat": -34.00685,
+    "stop_lon": 151.111693,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 222782,
+    "stop_name": "Princes Hwy at Hotham Rd",
+    "stop_lat": -34.029058,
+    "stop_lon": 151.081927,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 222895,
+    "stop_name": "Kingsway before Kiora Rd",
+    "stop_lat": -34.034348,
+    "stop_lon": 151.10278,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 223022,
+    "stop_name": "Cronulla Station, Cronulla St",
+    "stop_lat": -34.056212,
+    "stop_lon": 151.151593,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 256048,
+    "stop_name": "Queen St (King St - Opp.Police Station)",
+    "stop_lat": -34.062915,
+    "stop_lon": 150.817752,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 256085,
+    "stop_name": "Leumeah Station, OSullivan Rd",
+    "stop_lat": -34.051087,
+    "stop_lon": 150.830384,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 256518,
+    "stop_name": "Ingleburn Rd opp Ingleburn Station",
+    "stop_lat": -33.998241,
+    "stop_lon": 150.86436,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 256564,
+    "stop_name": "Ingleburn Station, Ingleburn Rd",
+    "stop_lat": -33.997863,
+    "stop_lon": 150.864424,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 256664,
+    "stop_name": "Minto Station, Redfern Rd",
+    "stop_lat": -34.027858,
+    "stop_lon": 150.843091,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 274717,
+    "stop_name": "Great Western Hwy after Werrington Rd",
+    "stop_lat": -33.768258,
+    "stop_lon": 150.758462,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 274724,
+    "stop_name": "Great Western Hwy before Reserve Rd",
+    "stop_lat": -33.768456,
+    "stop_lon": 150.7582,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 274727,
+    "stop_name": "Great Western Hwy opp Kingswood Station",
+    "stop_lat": -33.759044,
+    "stop_lon": 150.721135,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 274728,
+    "stop_name": "Kingswood Station, Great Western Hwy",
+    "stop_lat": -33.758823,
+    "stop_lon": 150.721346,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 275080,
+    "stop_name": "Penrith Interchange - Stand 1",
+    "stop_lat": -33.750215,
+    "stop_lon": 150.695799,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 276039,
+    "stop_name": "St Marys Station, Station St",
+    "stop_lat": -33.762558,
+    "stop_lon": 150.775322,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 276518,
+    "stop_name": "Riverstone Station, Riverstone Pde",
+    "stop_lat": -33.678703,
+    "stop_lon": 150.860464,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 276551,
+    "stop_name": "Opp Riverstone Station, Riverstone Pde",
+    "stop_lat": -33.679324,
+    "stop_lon": 150.860952,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 276665,
+    "stop_name": "Rooty Hill RSL Sherbrooke St",
+    "stop_lat": -33.771007,
+    "stop_lon": 150.834275,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 276675,
+    "stop_name": "Sherbrooke St (Opp.Rooty Hill RSL Club Entrance)",
+    "stop_lat": -33.771039,
+    "stop_lon": 150.834424,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 276761,
+    "stop_name": "Doonside Station Hill End Rd",
+    "stop_lat": -33.763179,
+    "stop_lon": 150.869362,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2000136,
+    "stop_name": "QVB, York St, Stand E",
+    "stop_lat": -33.870151,
+    "stop_lon": 151.206263,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2000142,
+    "stop_name": "Wynyard Station, Clarence St, Stand R",
+    "stop_lat": -33.865478,
+    "stop_lon": 151.204827,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2000167,
+    "stop_name": "Hyde Park, Elizabeth St, Stand A",
+    "stop_lat": -33.872944,
+    "stop_lon": 151.21006,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2000249,
+    "stop_name": "Town Hall Station, Park St, Stand H",
+    "stop_lat": -33.872996,
+    "stop_lon": 151.207863,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2000252,
+    "stop_name": "Town Hall Station, Park St, Stand K",
+    "stop_lat": -33.873235,
+    "stop_lon": 151.20838,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2065134,
+    "stop_name": "Pacific Hwy near Shirley St",
+    "stop_lat": -33.82826,
+    "stop_lon": 151.201012,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2065137,
+    "stop_name": "Pacific Hwy after Falcon St",
+    "stop_lat": -33.828077,
+    "stop_lon": 151.201162,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2065148,
+    "stop_name": "St Leonards Station, Pacific Hwy, Stand D",
+    "stop_lat": -33.823455,
+    "stop_lon": 151.194795,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2067135,
+    "stop_name": "Chatswood Station, Railway St, Stand J",
+    "stop_lat": -33.796656,
+    "stop_lon": 151.180262,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2074159,
+    "stop_name": "Pacific Hwy at Duff St",
+    "stop_lat": -33.732933,
+    "stop_lon": 151.126482,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2076119,
+    "stop_name": "Malsbury Rd opp Normanhurst Station",
+    "stop_lat": -33.720436,
+    "stop_lon": 151.097031,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2077159,
+    "stop_name": "Waitara Station, Pacific Hwy",
+    "stop_lat": -33.711039,
+    "stop_lon": 151.104979,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2114164,
+    "stop_name": "Railway Rd near Constitution Rd",
+    "stop_lat": -33.816147,
+    "stop_lon": 151.090675,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2117159,
+    "stop_name": "Adderton Rd opp Telopea Station",
+    "stop_lat": -33.793854,
+    "stop_lon": 151.041106,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2117183,
+    "stop_name": "Telopea Station, Adderton Rd",
+    "stop_lat": -33.793766,
+    "stop_lon": 151.041417,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2120117,
+    "stop_name": "Yarrara Rd opp Pennant Hills Station",
+    "stop_lat": -33.738039,
+    "stop_lon": 151.071956,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2131111,
+    "stop_name": "Ashfield Station, Liverpool Rd, Stand E",
+    "stop_lat": -33.88898,
+    "stop_lon": 151.125242,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2135219,
+    "stop_name": "Strathfield Station, Albert Rd, Stand K",
+    "stop_lat": -33.872354,
+    "stop_lon": 151.093744,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2135221,
+    "stop_name": "Parramatta Rd at Roberts St",
+    "stop_lat": -33.867649,
+    "stop_lon": 151.097426,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2137112,
+    "stop_name": "Concord Rd near Wellbank St",
+    "stop_lat": -33.858128,
+    "stop_lon": 151.092254,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2137160,
+    "stop_name": "Parramatta Rd before Lloyd George Av",
+    "stop_lat": -33.867385,
+    "stop_lon": 151.097226,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2141279,
+    "stop_name": "Berala Station, Woodburn Rd (NightRide)",
+    "stop_lat": -33.871253,
+    "stop_lon": 151.032576,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2141280,
+    "stop_name": "Lidcombe Station, Church St, Stand B",
+    "stop_lat": -33.863539,
+    "stop_lon": 151.045091,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2142150,
+    "stop_name": "Parramatta Rd opp Wentworth St",
+    "stop_lat": -33.8347,
+    "stop_lon": 151.021102,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2142151,
+    "stop_name": "James Ruse Dr after Grand Av",
+    "stop_lat": -33.820454,
+    "stop_lon": 151.021909,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2142152,
+    "stop_name": "Rosehill Station, James Ruse Dr",
+    "stop_lat": -33.823574,
+    "stop_lon": 151.021447,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2142287,
+    "stop_name": "Granville Station, Bridge St, Stand D",
+    "stop_lat": -33.832341,
+    "stop_lon": 151.011551,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2142289,
+    "stop_name": "Granville Station, Bridge St, Stand C",
+    "stop_lat": -33.831996,
+    "stop_lon": 151.011218,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2142334,
+    "stop_name": "Parramatta Rd after Harbord St",
+    "stop_lat": -33.835405,
+    "stop_lon": 151.022669,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2142338,
+    "stop_name": "James Ruse Dr before Hassall St",
+    "stop_lat": -33.820297,
+    "stop_lon": 151.021618,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2144159,
+    "stop_name": "Auburn Station, Northumberland Rd, Stand D",
+    "stop_lat": -33.848895,
+    "stop_lon": 151.033534,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2144223,
+    "stop_name": "Auburn Station, Rawson St, Stand E",
+    "stop_lat": -33.849373,
+    "stop_lon": 151.033727,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2145103,
+    "stop_name": "Wentworthville Station and Shops, Dunmore St",
+    "stop_lat": -33.807871,
+    "stop_lon": 150.971655,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2145168,
+    "stop_name": "Wentworthville Station and Shops, Dunmore St",
+    "stop_lat": -33.807718,
+    "stop_lon": 150.971658,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2145555,
+    "stop_name": "Pendle Hill Station, Wentworth Av",
+    "stop_lat": -33.802193,
+    "stop_lon": 150.957882,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2145556,
+    "stop_name": "Wentworth Av opp Pendle Hill Station",
+    "stop_lat": -33.801999,
+    "stop_lon": 150.95786,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2145557,
+    "stop_name": "Westmead Station, Alexandra Ave",
+    "stop_lat": -33.808686,
+    "stop_lon": 150.987728,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2147246,
+    "stop_name": "Prospect Hwy before Olive St",
+    "stop_lat": -33.776109,
+    "stop_lon": 150.933942,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2147249,
+    "stop_name": "Prospect Hwy after Federal Rd",
+    "stop_lat": -33.776015,
+    "stop_lon": 150.933676,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2148451,
+    "stop_name": "Blacktown Station, Stand D",
+    "stop_lat": -33.768258,
+    "stop_lon": 150.907028,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2148453,
+    "stop_name": "Railway Rd opp Marayong Station",
+    "stop_lat": -33.746048,
+    "stop_lon": 150.899863,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2148516,
+    "stop_name": "Quakers Rd and Kenny La (NightRide)",
+    "stop_lat": -33.74637,
+    "stop_lon": 150.899293,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2150107,
+    "stop_name": "Parramatta Interchange - Stand B2",
+    "stop_lat": -33.817403,
+    "stop_lon": 151.004269,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2150111,
+    "stop_name": "Parramatta Interchange - Stand A2",
+    "stop_lat": -33.817394,
+    "stop_lon": 151.004608,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2150262,
+    "stop_name": "James Ruse Dr opp Rosehill Station",
+    "stop_lat": -33.823473,
+    "stop_lon": 151.02114,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2160243,
+    "stop_name": "Merrylands Station, Railway Tce",
+    "stop_lat": -33.837019,
+    "stop_lon": 150.992307,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2160244,
+    "stop_name": "Merrylands Station, Merrylands Rd",
+    "stop_lat": -33.837142,
+    "stop_lon": 150.992715,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2161231,
+    "stop_name": "Railway St opp Yennora Station",
+    "stop_lat": -33.864828,
+    "stop_lon": 150.971443,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2161232,
+    "stop_name": "Yennora Station, Railway St",
+    "stop_lat": -33.864808,
+    "stop_lon": 150.971222,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2161236,
+    "stop_name": "Railway St opp Guildford Station",
+    "stop_lat": -33.853563,
+    "stop_lon": 150.985414,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2162179,
+    "stop_name": "Waldron Rd opp Chester Hill Station",
+    "stop_lat": -33.88308,
+    "stop_lon": 151.001063,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2163148,
+    "stop_name": "Leightonfield Station",
+    "stop_lat": -33.880957,
+    "stop_lon": 150.98503,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2163151,
+    "stop_name": "Leightonfield Station",
+    "stop_lat": -33.88115,
+    "stop_lon": 150.984711,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2166242,
+    "stop_name": "Railway Pde opp Canley Vale Station",
+    "stop_lat": -33.886972,
+    "stop_lon": 150.943494,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2170563,
+    "stop_name": "Liverpool Station, Stand G",
+    "stop_lat": -33.923949,
+    "stop_lon": 150.927163,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2170802,
+    "stop_name": "Hume Hwy opp Warwick Farm Station (NightRide)",
+    "stop_lat": -33.912984,
+    "stop_lon": 150.933582,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2170803,
+    "stop_name": "Warwick Farm Station, Hume Hwy (NightRide)",
+    "stop_lat": -33.91324,
+    "stop_lon": 150.93357,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2170805,
+    "stop_name": "Liverpool Station, Stand A",
+    "stop_lat": -33.924196,
+    "stop_lon": 150.927615,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2195109,
+    "stop_name": "The Boulevard at King Georges Rd",
+    "stop_lat": -33.923089,
+    "stop_lon": 151.068006,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2195110,
+    "stop_name": "The Boulevard at King Georges Rd",
+    "stop_lat": -33.922937,
+    "stop_lon": 151.068096,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2196233,
+    "stop_name": "Punchbowl Station, The Boulevarde",
+    "stop_lat": -33.925711,
+    "stop_lon": 151.055391,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2196242,
+    "stop_name": "Punchbowl Station, The Boulevarde",
+    "stop_lat": -33.925853,
+    "stop_lon": 151.056036,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2200343,
+    "stop_name": "Bankstown Station, Stand G",
+    "stop_lat": -33.917984,
+    "stop_lon": 151.035727,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2204101,
+    "stop_name": "Illawarra Rd near Schwebel St",
+    "stop_lat": -33.914014,
+    "stop_lon": 151.152977,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2204102,
+    "stop_name": "Illawarra Rd near Warburton St",
+    "stop_lat": -33.91451,
+    "stop_lon": 151.15247,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2204118,
+    "stop_name": "Ewart St near Murray La (NightRide)",
+    "stop_lat": -33.912294,
+    "stop_lon": 151.14045,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2207166,
+    "stop_name": "Bexley Rd before Godwin St",
+    "stop_lat": -33.94747,
+    "stop_lon": 151.126849,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2207170,
+    "stop_name": "Bexley Rd opp Godwin St",
+    "stop_lat": -33.94717,
+    "stop_lon": 151.126699,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2207174,
+    "stop_name": "Shaw St before Bexley Rd",
+    "stop_lat": -33.938151,
+    "stop_lon": 151.113075,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2207264,
+    "stop_name": "Shaw St at Bexley Rd",
+    "stop_lat": -33.938181,
+    "stop_lon": 151.113708,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2208126,
+    "stop_name": "Shaw St at Kingsgrove Rd",
+    "stop_lat": -33.940684,
+    "stop_lon": 151.101248,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2209108,
+    "stop_name": "Beverly Hills Station, Morgan St",
+    "stop_lat": -33.949186,
+    "stop_lon": 151.081395,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2210262,
+    "stop_name": "Riverwood Station, Belmore Rd",
+    "stop_lat": -33.951821,
+    "stop_lon": 151.052166,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2211113,
+    "stop_name": "Howard Rd at Memorial Dr",
+    "stop_lat": -33.952141,
+    "stop_lon": 151.031437,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2211119,
+    "stop_name": "Howard Rd after Padstow Pde",
+    "stop_lat": -33.952281,
+    "stop_lon": 151.031352,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2213107,
+    "stop_name": "Braesmere Rd opp Panania Station",
+    "stop_lat": -33.953656,
+    "stop_lon": 150.998258,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2220333,
+    "stop_name": "Hurstville Station, Ormonde Pde, Stand L",
+    "stop_lat": -33.967757,
+    "stop_lon": 151.102413,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2223101,
+    "stop_name": "Mortdale Station, Pitt St, Stand B",
+    "stop_lat": -33.971373,
+    "stop_lon": 151.080541,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2228107,
+    "stop_name": "Kingsway at Kiora Rd",
+    "stop_lat": -34.034124,
+    "stop_lon": 151.102738,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2229196,
+    "stop_name": "Kingsway opp Caringbah Station",
+    "stop_lat": -34.0418,
+    "stop_lon": 151.121707,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2229197,
+    "stop_name": "Caringbah Station, Kingsway",
+    "stop_lat": -34.041711,
+    "stop_lon": 151.121937,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2230191,
+    "stop_name": "Woolooware Station, Kingsway",
+    "stop_lat": -34.048683,
+    "stop_lon": 151.14322,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2230192,
+    "stop_name": "Woolooware Station, Kingsway",
+    "stop_lat": -34.048916,
+    "stop_lon": 151.143161,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2232126,
+    "stop_name": "Sutherland Station, Flora St, Stand F",
+    "stop_lat": -34.031866,
+    "stop_lon": 151.057944,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2232236,
+    "stop_name": "Princes Hwy at Hotham Rd",
+    "stop_lat": -34.02906,
+    "stop_lon": 151.081494,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2560267,
+    "stop_name": "OSullivan Rd opp Leumeah Station",
+    "stop_lat": -34.051187,
+    "stop_lon": 150.830482,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2560474,
+    "stop_name": "Queen St (Police Station)",
+    "stop_lat": -34.063041,
+    "stop_lon": 150.817442,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2560577,
+    "stop_name": "Menangle Rd (Opp Macarthur Station - Stand H)",
+    "stop_lat": -34.072601,
+    "stop_lon": 150.796543,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2564112,
+    "stop_name": "Atchison Rd near Windsor St",
+    "stop_lat": -33.986018,
+    "stop_lon": 150.88337,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2564118,
+    "stop_name": "Atchison Rd near Windsor St",
+    "stop_lat": -33.986778,
+    "stop_lon": 150.883053,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2566123,
+    "stop_name": "Minto Station, Minto Rd",
+    "stop_lat": -34.027544,
+    "stop_lon": 150.842639,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2753122,
+    "stop_name": "Richmond Station, East Market St",
+    "stop_lat": -33.598595,
+    "stop_lon": 150.752442,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2753123,
+    "stop_name": "Bourke St opp East Richmond Station",
+    "stop_lat": -33.601884,
+    "stop_lon": 150.758467,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2753654,
+    "stop_name": "East Richmond Station, Windsor St",
+    "stop_lat": -33.600878,
+    "stop_lon": 150.759501,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2756124,
+    "stop_name": "Windsor Interchange - Stand B",
+    "stop_lat": -33.613557,
+    "stop_lon": 150.811376,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2756417,
+    "stop_name": "Clarendon Station, Racecourse Rd",
+    "stop_lat": -33.607946,
+    "stop_lon": 150.787701,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2756418,
+    "stop_name": "Railway Rd S opp Mulgrave Station",
+    "stop_lat": -33.626865,
+    "stop_lon": 150.829925,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2756419,
+    "stop_name": "Mulgrave Station, Railway Rd",
+    "stop_lat": -33.627036,
+    "stop_lon": 150.83101,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2760215,
+    "stop_name": "Station St opp St Marys Station (NightRide)",
+    "stop_lat": -33.762795,
+    "stop_lon": 150.775755,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2762106,
+    "stop_name": "Schofields Station - Stand 1 (Opp.Pelican Rd)",
+    "stop_lat": -33.70399,
+    "stop_lon": 150.873931,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2763162,
+    "stop_name": "Railway Rd opp Quakers Hill Station",
+    "stop_lat": -33.72751,
+    "stop_lon": 150.885946,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2763166,
+    "stop_name": "Quakers Hill Station, Railway Rd (NightRide)",
+    "stop_lat": -33.727074,
+    "stop_lon": 150.885769,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2765275,
+    "stop_name": "Vineyard Station, Riverstone Pde (NightRide)",
+    "stop_lat": -33.650173,
+    "stop_lon": 150.851248,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2765276,
+    "stop_name": "Vineyard Station, Riverstone Pde (NightRide)",
+    "stop_lat": -33.650499,
+    "stop_lon": 150.851616,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  },
+  {
+    "stop_id": 2770102,
+    "stop_name": "Mount Druitt Station, Stand C",
+    "stop_lat": -33.768959,
+    "stop_lon": 150.819652,
+    "location_type": "",
+    "parent_station": "",
+    "wheelchair_boarding": 0
+  }
+]

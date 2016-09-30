@@ -1,0 +1,132 @@
+[
+  {
+    "route_id": "2411_N10",
+    "agency_id": 2411,
+    "route_short_name": "N10",
+    "route_long_name": "Sutherland to City Town Hall",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2412_N11",
+    "agency_id": 2412,
+    "route_short_name": "N11",
+    "route_long_name": "Cronulla to City Town Hall",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2413_N20",
+    "agency_id": 2413,
+    "route_short_name": "N20",
+    "route_long_name": "Riverwood to Rockdale",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2414_N30",
+    "agency_id": 2414,
+    "route_short_name": "N30",
+    "route_long_name": "Macarthur to City Town Hall",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2415_N40",
+    "agency_id": 2415,
+    "route_short_name": "N40",
+    "route_long_name": "East Hills to City Town Hall",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2416_N50",
+    "agency_id": 2416,
+    "route_short_name": "N50",
+    "route_long_name": "Liverpool to City Town Hall",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2417_N60",
+    "agency_id": 2417,
+    "route_short_name": "N60",
+    "route_long_name": "Fairfield to City Town Hall",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2418_N61",
+    "agency_id": 2418,
+    "route_short_name": "N61",
+    "route_long_name": "Carlingford to City Town Hall",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2419_N70",
+    "agency_id": 2419,
+    "route_short_name": "N70",
+    "route_long_name": "Penrith to City Town Hall",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2420_N71",
+    "agency_id": 2420,
+    "route_short_name": "N71",
+    "route_long_name": "Richmond to City Town Hall",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2421_N80",
+    "agency_id": 2421,
+    "route_short_name": "N80",
+    "route_long_name": "Hornsby to City Town Hall via Strathfield",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2422_N90",
+    "agency_id": 2422,
+    "route_short_name": "N90",
+    "route_long_name": "Hornsby to City Town Hall via Chatswood",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  },
+  {
+    "route_id": "2423_N100",
+    "agency_id": 2423,
+    "route_short_name": "N100",
+    "route_long_name": "Bondi Junction to Central Railway Sq",
+    "route_desc": "Sydney Buses Network",
+    "route_type": 700,
+    "route_color": "00B5EF",
+    "route_text_color": "FFFFFF"
+  }
+]

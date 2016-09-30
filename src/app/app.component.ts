@@ -1,25 +1,22 @@
 import { Component } from '@angular/core';
-import Dexie from 'Dexie';
+
+
+import { AppService } from './app.service';
 
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
-  
-  db: Dexie;
 
-  constructor() {
-    this.db = new Dexie('dsds');
-    this.db.version(1).stores({contacts: 'id, first, last'});
-    this.db.table('contacts').put({first:'Evan', last: 'Wallace'});
-
+  constructor(private appSvc: AppService) {
+    if (navigator.onLine) {
+      this.appSvc.deleteDb();
+      this.appSvc.loadDb();
+    }
   }
-}
 
-interface IContact {
-    id?: number,
-    first: string,
-    last: string
+  seedDatabase() { }
 }
