@@ -9,10 +9,11 @@ Specifically regarding nightrider bus service
 
 # Instructions
 
+
+npm install
+
 ## Production build
-npm run build.prod
 npm run serve.prod
 
 ## Development build
-npm run build.dev
 npm run serve.dev
