@@ -1,10 +1,8 @@
-var CACHE_NAME = 'v1::evantest';
+var CACHE_NAME = 'v1::offline';
 var urlsToCache = [
-  '/',
-  '/app/offline/offline.component.html',
-  '/inline.js',
-  '/styles.bundle.js',
-  '/main.bundle.js'
+  'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js',
+  'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css',
+  'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js'
 ];
 
 // Install

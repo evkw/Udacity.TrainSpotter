@@ -17,20 +17,20 @@ export class AppService {
 
     constructor(private http: Http) { }
 
-    deleteDb() {
+    reloadDb() {
+        console.log('Deleting Database');
         db.delete();
-        db.open();
-    }
-
-    loadDb() {
-        this.getAgenciesForDb();
-        // this.getCalendarForDb();
-        // this.getCalendarDatesForDb();
-        // this.getRoutesForDb();
-        // this.getShapesForDb();
-        // this.getStopTimesForDb();
-        // this.getStopsForDb();
-        // this.getTripsForDb();
+        console.log('Re-openning Database');
+        return db.open().then(() => {
+            this.getAgenciesForDb();
+            this.getCalendarForDb();
+            this.getCalendarDatesForDb();
+            this.getRoutesForDb();
+            this.getShapesForDb();
+            this.getStopTimesForDb();
+            this.getStopsForDb();
+            this.getTripsForDb();
+        });
     }
 
     private getAgenciesForDb() {
