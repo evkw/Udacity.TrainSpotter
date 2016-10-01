@@ -1,0 +1,11 @@
+<sd-toolbar></sd-toolbar>
+
+<div *ngIf="!loadingComplete" class="container">
+    <div class="row">
+        <div class="col-md-6 col-md-offset-3">
+            Loading database...
+        </div>
+    </div>
+</div>
+
+<app-trips *ngIf="loadingComplete"></app-trips>
