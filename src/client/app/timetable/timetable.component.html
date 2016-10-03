@@ -1,0 +1,22 @@
+<sd-navbar></sd-navbar>
+<div class="container">
+  <h2>Nightrider timetable</h2>
+  <table class="table">
+    <thead>
+      <tr>
+        <th>Route</th>
+        <th>Trip</th>
+        <th>Stop Name</th>
+        <th>Stop Time</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr *ngFor="let tt of timetable">
+        <td>{{tt?.route?.route_short_name}}</td>
+        <td>{{tt?.trip?.route_direction}}</td>
+        <td>{{tt?.expandedStops?.stop?.stop_name}}</td>
+        <td>{{tt?.expandedStops?.stopTime?.arrival_time}}</td>
+      </tr>
+    </tbody>
+  </table>
+</div>
