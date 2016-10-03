@@ -7,6 +7,8 @@ import { Trips } from '../shared/models/trips.model';
 import { StopTimes } from '../shared/models/stop_times.model';
 import { Stops } from '../shared/models/stops.model';
 
+import * as moment from 'moment';
+
 @Component({
     moduleId: module.id,
     selector: 'app-trips',
@@ -26,6 +28,9 @@ export class TripComponent {
     public departTime: ExpandedStop;
     public arriveTime: ExpandedStop;
     public expandedTrips: ExpandedTrip[] = [];
+    public arrive: Date;
+    public depart: Date;
+    public duration: string;
 
     constructor(private fb: FormBuilder) {
         db.routes.toArray()
@@ -94,6 +99,7 @@ export class TripComponent {
 
             let depart = this.expandedStops.find(x => x.stop.stop_id == stopId);
             this.departTime = depart;
+            this.depart = this.convertToTime(depart.stopTime.departure_time);
             this.transportForm.controls['arrive'].reset();
             let stops = this.expandedStops;
             this.arriveStops = [];
@@ -106,13 +112,51 @@ export class TripComponent {
 
         this.transportForm.controls['arrive'].valueChanges.subscribe(stopId => {
 
+            let date = new Date(Date.now());
             if (stopId == null) {
                 return;
             }
 
             let arrive = this.arriveStops.find(x => x.stopTime.stop_id == stopId);
             this.arriveTime = arrive;
+            this.arrive = this.convertToTime(arrive.stopTime.arrival_time);
+
+
+            this.setDuration(this.arrive, this.depart);
         });
+    }
+
+
+    convertToTime(time: string): Date {
+        let date = new Date();
+        let split = time.split(":");
+        let hour: number = 0;
+
+        if (+split[0] > 24) {
+            hour = (+split[0] - 24)
+        }
+
+        this.arrive = new Date();
+        date.setHours(hour);
+        date.setMinutes(+split[1]);
+        date.setSeconds(+split[2]);
+        return date;
+    }
+
+    setDuration(arrive: Date, depart: Date) {
+        var beginningTime = moment({
+            h: depart.getHours(),
+            m: depart.getMinutes(),
+            s: depart.getSeconds()
+        });
+        var endTime = moment({
+            h: arrive.getHours(),
+            m: arrive.getMinutes(),
+            s: arrive.getSeconds()
+        });
+
+        let diff = moment.duration(endTime.diff(beginningTime));
+        this.duration = `${diff.hours()}h ${diff.minutes()}m  ${diff.seconds()}s`;
     }
 }
 
